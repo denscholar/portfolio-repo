@@ -1,9 +1,7 @@
 
 .navbar{
-    background-color:black;
-    margin-bottom: 0px;
-    padding: 0px;
-    margin-top: 1%;
+   margin-bottom: 0px;
+    padding: 0px!important;
 }
 .footer{
     background-color: black;
@@ -16,15 +14,30 @@
     font-weight: bolder;
 }
 .jumbotron{
-	background-image: url(/image2.jpg);
+	background-image: url(/portfolio-repo/image2.jpg);
 	background-position: center;
     background-repeat: no-repeat;
-    height: 500px;
+    height: 5
     min-height: 50%;
     background-position: center;
+    margin-bottom: 0px;
     
       
 } 
+.John{
+    background-color: #000000;
+    margin-top: 0%!important;
+  
+
+
+
+
+}
+.jacob{
+    margin-bottom: 0px!important;
+
+
+}
 .text1{
     text-align: left;
     color: #fff;
@@ -41,17 +54,19 @@
     text-align: right;
 }
 .bg-1 { 
-    background-color: black;
+    /* background-color: black; */
     color: #ffffff;
-    margin-top: -35px;
-    height: 250px;
-         
+    margin-top: px;
+    height: 250px;         
 }
   .img-circle{
       border-radius: 100px;
       background: #000000!important;
-      
+      margin-left: 80px;
+      margin-top: 20px;
 }
 .container-fluid{
     margin-top: 1%;
 }
+
+
