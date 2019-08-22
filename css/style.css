@@ -1,0 +1,57 @@
+
+.navbar{
+    background-color:black;
+    margin-bottom: 0px;
+    padding: 0px;
+    margin-top: 1%;
+}
+.footer{
+    background-color: black;
+    padding: 25px;   
+
+}
+.dennis{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.jumbotron{
+	background-image: url(/image2.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    min-height: 50%;
+    background-position: center;
+    
+      
+} 
+.text1{
+    text-align: left;
+    color: #fff;
+    font-weight: bolder;
+    text-justify: auto;    
+}
+.text2{
+    font-size: 20px;
+    text-align: left;
+    font-weight: bolder;
+    color: #fff;
+}
+.text3{
+    text-align: right;
+}
+.bg-1 { 
+    background-color: black;
+    color: #ffffff;
+    margin-top: -35px;
+    height: 250px;
+         
+}
+  .img-circle{
+      border-radius: 100px;
+      background: #000000!important;
+      
+}
+.container-fluid{
+    margin-top: 1%;
+}
